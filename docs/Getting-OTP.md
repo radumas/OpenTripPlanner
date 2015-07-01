@@ -28,7 +28,7 @@ Once you have these packages installed, create and/or switch to the directory wh
 ```shell
 mkdir git
 cd git
-git clone git@github.com:opentripplanner/OpenTripPlanner.git
+git clone https://github.com/opentripplanner/OpenTripPlanner.git
 ```
 
 Then change to the newly cloned OpenTripPlanner repository directory and start a build:
